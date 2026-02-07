@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+Server/.env
+
+# Build output (Vite)
+Client/dist/
+
+# Logs
+*.log
+npm-debug.log*
