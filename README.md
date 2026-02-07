@@ -1,6 +1,9 @@
 # Faddom exercise - CPU usage over time
 The goal of this exercise is to extract performance information for an AWS instance and display the CPU usage over time.
 
+## Prerequisites
+- Node.js v18 or higher
+
 ## Installation
 ### 1. Clone the repository.
 
